@@ -5,6 +5,8 @@
 Lösungen zu Übungsblatt Termin 1, Übungsblatt Termin 2 und Praktikum Termin 3 (Flutter UI Einstieg).
 Erstellt und getestet mit Flutter 3.38.10 / Dart 3.10.9.
 
+> **Hinweis zur KI-Nutzung:** Bei der Bearbeitung dieser Aufgaben habe ich **Claude** (KI-Assistent von Anthropic) als Hilfsmittel genutzt, unter anderem für Code, Tests und diese README. In der Git-Historie ist Claude deshalb als Co-Autor eingetragen.
+
 ## Inhalt
 
 | Ordner / Datei | Aufgaben |
